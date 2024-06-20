@@ -114,7 +114,7 @@ allprojects {
         //maven { url = "http://cc.crzd.me/maven/" } // ComputerCraft, dead as of 2021-05-24
         //maven { url = "https://repo.raoulvdberge.com/" } // Refined Storage (new)
         //maven { url = "https://repo.refinedmods.com/" } // Refined Storage (double-plus new)
-        maven { url = "https://maven.hypherionmc.me/" } // our backups for vanished sources
+        //maven { url = "https://maven.hypherionmc.me/" } // our backups for vanished sources
         // maven { url = "https://modmaven.dev/" } // appeng etc. but mostly 1.16 stuff
         mavenLocal()
     }
