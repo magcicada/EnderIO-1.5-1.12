@@ -138,7 +138,7 @@ allprojects {
     dependencies {
         // Remote / local endercore
         if (!localEnderCore || gradle.startParameter.taskNames.contains("runClient")) {
-            deobfCompile "com.enderio:endercore:0.5.78"
+            deobfCompile "curse.maven:endercore-231868:4671384"
         }
 
         // All jars in the '<module>/lib' directory
