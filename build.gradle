@@ -108,7 +108,6 @@ allprojects {
         maven { url = "http://dvs1.progwml6.com/files/maven" }
         maven { url = "http://files.minecraftforge.net/maven" }
         maven { url = "http://maven.cil.li/" } // OpenComputers
-        maven { url = "http://maven.ic2.player.to" }
         maven { url = "https://maven.mcmoddev.com" } // ???, dead as of 2021-01-10, back as of 2021-05-24
         //maven { url = "https://mmdmaven.blamejared.com" } // temp replacement for ^
         maven { url = "http://mod-buildcraft.com/maven/" }
