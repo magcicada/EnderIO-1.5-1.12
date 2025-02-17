@@ -23,5 +23,5 @@ jobs:
         run: ./gradlew --no-daemon build
       - uses: actions/upload-artifact@v3
         with:
-          name: EnderIO
+          name: EnderIO-1.12.2
           path: build/libs
